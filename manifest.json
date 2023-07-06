@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "New Tab New Anime Image",
+    "description": "View a new anime image on every tab",
+    "version": "0.1",
+    "icons": {
+        "48": "favicon.png",
+        "96": "favicon.png"
+      },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+      }
+}
